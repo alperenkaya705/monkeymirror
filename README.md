@@ -40,53 +40,11 @@
 <img width="2048" height="1593" alt="monkey_dontspeak" src="https://github.com/user-attachments/assets/9dbe0777-11f6-494d-9711-ec14a17d5d41" />
 
 
-🛠️ Gereksinimler
-Projeyi çalıştırmak için bilgisayarınızda Python kurulu olmalıdır. Ayrıca aşağıdaki kütüphanelere ihtiyacınız var:
+# Gereksinimler
+Projeyi çalıştırmak için bilgisayarınızda Python kurulu olmalıdır.
 
-OpenCV (cv2)
-MediaPipe (mediapipe)
-NumPy (numpy)
-Kütüphanelerin Kurulumu
-Gerekli paketleri pip ile yükleyebilirsiniz:
-Bash
+Gerekli Kütüphaneler:
+OpenCV 
+MediaPipe 
+NumPy
 
-pip install opencv-python mediapipe numpy
-📂 Proje Yapısı ve Kurulum
-Projenin düzgün çalışması için görsellerin doğru klasörde olması gerekmektedir. Dosya yapısı şu şekilde olmalıdır:
-Plaintext
-
-Monkey-AI/
-│
-├── main.py              # Ana proje kodu
-├── README.md            # Proje dökümantasyonu
-└── Gorseller/           # Görsellerin bulunduğu klasör
-    ├── monkey_normal.png
-    ├── monkey_yes.png
-    ├── monkey_ok.png
-    ├── monkey_idea.png
-    ├── monkey_thinking.png
-    ├── monkey_shocked.png
-    ├── monkey_dontsee.png
-    ├── monkey_donthear.png
-    └── monkey_dontspeak.png
-Not: Gorseller klasörünün isminin ve içindeki resim dosyalarının isimlerinin yukarıdaki gibi olduğundan emin olun, aksi takdirde program siyah ekran gösterecektir.
-▶️ Kullanım
-Terminal veya komut istemcisini açın.
-Proje dizinine gidin.
-Uygulamayı başlatın:
-Bash
-
-python main.py
-Kamera açıldığında hareketlerinizi yapmaya başlayın.
-Çıkış yapmak için klavyeden q tuşuna basabilirsiniz.
-📷 Ekran Görüntüleri
-(Buraya projen çalışırken aldığın örnek ekran görüntülerini ekleyebilirsin. Örneğin: Bir tarafta sen "Görmedim" yaparken diğer tarafta maymunun aynı hareketi yaptığı bir görsel.)
-
-🤝 Katkıda Bulunma
-Projeye katkıda bulunmak isterseniz, lütfen bir "Pull Request" gönderin veya karşılaştığınız hataları "Issues" kısmında belirtin.
-
-📄 Lisans
-Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.
-
-
-Düzenleme yapıcaz bekle
