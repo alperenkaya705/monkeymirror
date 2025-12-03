@@ -43,8 +43,10 @@
 # Gereksinimler
 Projeyi çalıştırmak için bilgisayarınızda Python kurulu olmalıdır.
 
-# Gerekli Kütüphaneler:
-OpenCV 
-MediaPipe 
+Gerekli Kütüphaneler:
+OpenCV
+
+MediaPipe
+
 NumPy
 
